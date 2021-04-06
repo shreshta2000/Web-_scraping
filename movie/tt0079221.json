@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Gol Maal",
+        "year": 1979,
+        "rank": 8.5,
+        "movie url": "https://www.imdb.com/title/tt0079221/",
+        "country": "India",
+        "language": [
+            "Hindi"
+        ],
+        "director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "movie bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "poster url": "https://www.imdb.com//title/tt0079221/mediaviewer/rm3716412160",
+        "runtime": 144,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "cast": [
+            {
+                "artist": "Amol Palekar",
+                "imbd_id": "nm0657505"
+            },
+            {
+                "artist": "Bindiya Goswami",
+                "imbd_id": "nm0331727"
+            },
+            {
+                "artist": "Deven Verma",
+                "imbd_id": "nm0894340"
+            },
+            {
+                "artist": "Shubha Khote",
+                "imbd_id": "nm0451863"
+            },
+            {
+                "artist": "Manju Singh",
+                "imbd_id": "nm1542933"
+            },
+            {
+                "artist": "Dina Pathak",
+                "imbd_id": "nm0665544"
+            },
+            {
+                "artist": "Pushpa",
+                "imbd_id": "nm0701106"
+            },
+            {
+                "artist": "David Abraham",
+                "imbd_id": "nm0008932"
+            },
+            {
+                "artist": "Yunus Parvez",
+                "imbd_id": "nm0664109"
+            },
+            {
+                "artist": "Utpal Dutt",
+                "imbd_id": "nm0244884"
+            },
+            {
+                "artist": "Ashwani",
+                "imbd_id": "nm1538133"
+            },
+            {
+                "artist": "Harish Magon",
+                "imbd_id": "nm1442040"
+            },
+            {
+                "artist": "Bhola",
+                "imbd_id": "nm0080410"
+            },
+            {
+                "artist": "Amol Sen",
+                "imbd_id": "nm1059411"
+            },
+            {
+                "artist": "Siddharth",
+                "imbd_id": "nm1193461"
+            }
+        ]
+    },
+    {
+        "name": "Gol Maal",
+        "year": 1979,
+        "rank": 8.5,
+        "movie url": "https://www.imdb.com/title/tt0079221/",
+        "country": "India",
+        "language": [
+            "Hindi"
+        ],
+        "director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "movie bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "poster url": "https://www.imdb.com//title/tt0079221/mediaviewer/rm3716412160",
+        "runtime": 144,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "cast": [
+            {
+                "artist": "Amol Palekar",
+                "imbd_id": "nm0657505"
+            },
+            {
+                "artist": "Bindiya Goswami",
+                "imbd_id": "nm0331727"
+            },
+            {
+                "artist": "Deven Verma",
+                "imbd_id": "nm0894340"
+            },
+            {
+                "artist": "Shubha Khote",
+                "imbd_id": "nm0451863"
+            },
+            {
+                "artist": "Manju Singh",
+                "imbd_id": "nm1542933"
+            },
+            {
+                "artist": "Dina Pathak",
+                "imbd_id": "nm0665544"
+            },
+            {
+                "artist": "Pushpa",
+                "imbd_id": "nm0701106"
+            },
+            {
+                "artist": "David Abraham",
+                "imbd_id": "nm0008932"
+            },
+            {
+                "artist": "Yunus Parvez",
+                "imbd_id": "nm0664109"
+            },
+            {
+                "artist": "Utpal Dutt",
+                "imbd_id": "nm0244884"
+            },
+            {
+                "artist": "Ashwani",
+                "imbd_id": "nm1538133"
+            },
+            {
+                "artist": "Harish Magon",
+                "imbd_id": "nm1442040"
+            },
+            {
+                "artist": "Bhola",
+                "imbd_id": "nm0080410"
+            },
+            {
+                "artist": "Amol Sen",
+                "imbd_id": "nm1059411"
+            },
+            {
+                "artist": "Siddharth",
+                "imbd_id": "nm1193461"
+            }
+        ]
+    }
+]

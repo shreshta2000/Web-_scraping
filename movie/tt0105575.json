@@ -1,0 +1,926 @@
+[
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    },
+    {
+        "name": "Thevar Magan",
+        "year": 1992,
+        "rank": 8.4,
+        "movie url": "https://www.imdb.com/title/tt0105575/",
+        "country": "India",
+        "language": [
+            "Tamil"
+        ],
+        "director": [
+            "Bharathan"
+        ],
+        "movie bio": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "poster url": "https://www.imdb.com//title/tt0105575/mediaviewer/rm4230191361",
+        "runtime": 145,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kamal Haasan",
+                "imbd_id": "nm0352032"
+            },
+            {
+                "artist": "Shivaji Ganesan",
+                "imbd_id": "nm0304262"
+            },
+            {
+                "artist": "Nassar",
+                "imbd_id": "nm0621937"
+            },
+            {
+                "artist": "Revathi",
+                "imbd_id": "nm0720763"
+            },
+            {
+                "artist": "Gautami",
+                "imbd_id": "nm0310221"
+            },
+            {
+                "artist": "Vadivelu",
+                "imbd_id": "nm0883014"
+            },
+            {
+                "artist": "Thalaivasal Vijay",
+                "imbd_id": "nm1488730"
+            },
+            {
+                "artist": "Madhan Bob",
+                "imbd_id": "nm1485941"
+            },
+            {
+                "artist": "Sennalkudi Lakshmi",
+                "imbd_id": "nm6174391"
+            },
+            {
+                "artist": "Sangili Murugan",
+                "imbd_id": "nm3905156"
+            },
+            {
+                "artist": "Kalapart Natarajan",
+                "imbd_id": "nm8064190"
+            },
+            {
+                "artist": "Kaka Radhakrishnan",
+                "imbd_id": "nm0435336"
+            },
+            {
+                "artist": "Neelima Rani",
+                "imbd_id": "nm4013410"
+            },
+            {
+                "artist": "Renuka",
+                "imbd_id": "nm0719915"
+            }
+        ]
+    }
+]

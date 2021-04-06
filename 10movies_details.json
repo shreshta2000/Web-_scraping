@@ -1,0 +1,171 @@
+[
+    {
+        "movie_name": "Pather Panchali",
+        "director": [
+            "Satyajit Ray"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0048473/mediaviewer/rm2023787521",
+        "language": [
+            "Bengali"
+        ],
+        "movie_bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+        "runtime": 125,
+        "movie_genre": [
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Gol Maal",
+        "director": [
+            "Hrishikesh Mukherjee"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0079221/mediaviewer/rm3716412160",
+        "language": [
+            "Hindi"
+        ],
+        "movie_bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "runtime": 144,
+        "movie_genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "movie_name": "Nayakan",
+        "director": [
+            "Mani Ratnam"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0093603/mediaviewer/rm1040255488",
+        "language": [
+            "Tamil"
+        ],
+        "movie_bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+        "runtime": 156,
+        "movie_genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Anbe Sivam",
+        "director": [
+            "Sundar C."
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0367495/mediaviewer/rm3025237504",
+        "language": [
+            "Tamil"
+        ],
+        "movie_bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+        "runtime": 160,
+        "movie_genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Drishyam 2",
+        "director": [
+            "Jeethu Joseph"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt12361178/mediaviewer/rm4072658177",
+        "language": [
+            "Malayalam"
+        ],
+        "movie_bio": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?",
+        "runtime": 152,
+        "movie_genre": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "movie_name": "Apur Sansar",
+        "director": [
+            "Satyajit Ray"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0052572/mediaviewer/rm2084100609",
+        "language": [
+            "Bengali"
+        ],
+        "movie_bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+        "runtime": 105,
+        "movie_genre": [
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Kireedam",
+        "director": [
+            "Sibi Malayil"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0237376/mediaviewer/rm1299766785",
+        "language": [
+            "Malayalam"
+        ],
+        "movie_bio": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw.",
+        "runtime": 124,
+        "movie_genre": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Natsamrat",
+        "director": [
+            "Mahesh Manjrekar"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt5311546/mediaviewer/rm3539275520",
+        "language": [
+            "Marathi"
+        ],
+        "movie_bio": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+        "runtime": 166,
+        "movie_genre": [
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "movie_name": "Pariyerum Perumal",
+        "director": [
+            "Mari Selvaraj"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt8176054/mediaviewer/rm2678026496",
+        "language": [
+            "Tamil"
+        ],
+        "movie_bio": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+        "runtime": 154,
+        "movie_genre": [
+            "Drama"
+        ]
+    },
+    {
+        "movie_name": "Black Friday",
+        "director": [
+            "Anurag Kashyap"
+        ],
+        "country": "India",
+        "poster_url": "https://www.imdb.com//title/tt0400234/mediaviewer/rm4021010177",
+        "language": [
+            "Hindi"
+        ],
+        "movie_bio": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+        "runtime": 143,
+        "movie_genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    }
+]

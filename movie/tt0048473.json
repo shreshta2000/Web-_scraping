@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Pather Panchali",
+        "year": 1955,
+        "rank": 8.5,
+        "movie url": "https://www.imdb.com/title/tt0048473/",
+        "country": "India",
+        "language": [
+            "Bengali"
+        ],
+        "director": [
+            "Satyajit Ray"
+        ],
+        "movie bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+        "poster url": "https://www.imdb.com//title/tt0048473/mediaviewer/rm2023787521",
+        "runtime": 125,
+        "genre": [
+            "Drama"
+        ],
+        "cast": [
+            {
+                "artist": "Kanu Bannerjee",
+                "imbd_id": "nm0052333"
+            },
+            {
+                "artist": "Karuna Bannerjee",
+                "imbd_id": "nm0052334"
+            },
+            {
+                "artist": "Chunibala Devi",
+                "imbd_id": "nm0222447"
+            },
+            {
+                "artist": "Uma Das Gupta",
+                "imbd_id": "nm0201871"
+            },
+            {
+                "artist": "Subir Banerjee",
+                "imbd_id": "nm0052343"
+            },
+            {
+                "artist": "Runki Banerjee",
+                "imbd_id": "nm0051846"
+            },
+            {
+                "artist": "Reba Devi",
+                "imbd_id": "nm0222480"
+            },
+            {
+                "artist": "Aparna Devi",
+                "imbd_id": "nm0222436"
+            },
+            {
+                "artist": "Tulsi Chakraborty",
+                "imbd_id": "nm0149831"
+            },
+            {
+                "artist": "Haren Banerjee",
+                "imbd_id": "nm0051836"
+            },
+            {
+                "artist": "Rampada Das",
+                "imbd_id": "nm5580026"
+            },
+            {
+                "artist": "Nibhanani Devi",
+                "imbd_id": "nm0222467"
+            },
+            {
+                "artist": "Rama Gangopadhaya",
+                "imbd_id": "nm0304346"
+            },
+            {
+                "artist": "Roma Ganguli",
+                "imbd_id": "nm0304351"
+            },
+            {
+                "artist": "Binoy Mukherjee",
+                "imbd_id": "nm0611518"
+            }
+        ]
+    }
+]
